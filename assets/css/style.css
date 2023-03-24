@@ -3,6 +3,10 @@ main {
     margin: 50px auto;
 }
 
+.block {
+    width: fit-content;
+}
+
 .title {
     width: fit-content;
     margin: 15px auto;
