@@ -8,3 +8,8 @@ main {
     margin: 10px auto 30px;
     font-size: 250%;
 }
+
+.overview {
+    width: fit-content;
+    margin: 80px auto 20px;
+}
