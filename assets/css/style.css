@@ -1,12 +1,12 @@
 main {
     width: fit-content;
-    margin: 80px auto;
+    margin: 50px auto;
 }
 
 .title {
     width: fit-content;
     margin: 10px auto 30px;
-    font-size: 250%;
+    font-size: 300%;
 }
 
 .overview {
