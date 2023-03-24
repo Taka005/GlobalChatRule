@@ -13,3 +13,7 @@ main {
     width: fit-content;
     margin: 80px auto 20px;
 }
+
+.text {
+    text-align: center;
+}
