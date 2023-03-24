@@ -9,12 +9,25 @@ main {
     font-size: 270%;
 }
 
+.subtitle {
+    margin: 3px;
+}
+
 .overview {
     width: fit-content;
     margin: 10px auto 10px;
 }
 
+.rule {
+    width: fit-content;
+    margin: 15px auto 10px;
+}
+
 .text {
+    margin: 1px 8px;
+}
+
+.center-text {
     text-align: center;
     margin: auto;
 }
